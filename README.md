@@ -12,6 +12,9 @@ To play the game:
 
 ### Instructions for playing the game
 
+DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription
+DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription
+
 1. Press the space bar to begin.
 2. Use the up and down arrow keys to rotate the shape.
 3. Use the left and right arrow keys to position the shape.
